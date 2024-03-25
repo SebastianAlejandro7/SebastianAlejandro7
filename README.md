@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=D187F7&background=FFFFFF00&random=false&width=435&lines=Hi%2C+I'm+Sebastian+Alejandro...;a+Junior+Back-End+developer+in+C%23" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianmoreno7) 
@@ -17,5 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=SebastianAlejandro7&icon=9&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=D187F7&background=FFFFFF00&random=false&width=435&lines=Hi%2C+I'm+Sebastian+Alejandro...;a+Junior+Back-End+developer+in+C%23" alt="Typing SVG" /></a>
